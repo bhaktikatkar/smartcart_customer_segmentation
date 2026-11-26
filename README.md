@@ -1,4 +1,4 @@
-# Smart Customer Segmentation
+# SmartCart Customer Segmentation
 Grouping customers by their purchasing behaviour using unsupervised machine learning (PCA, K-Means, Agglomerative Clustering).
 
 ## Problem
